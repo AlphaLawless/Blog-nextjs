@@ -25,7 +25,7 @@ Run project
 ```
 npm run dev
 ```
-## [Deploy]() 🚀
+## [Deploy](https://blog-nextjs-ochre-eta.vercel.app/) 🚀
 
 ![Image of Project](./assets/blog.png)
 
